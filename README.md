@@ -5,6 +5,9 @@ A simple C++ header file to do basic vector operations.
 ### Usage
 
 ```
+#include "Vec.hpp"
+
+
 vec::vector2i vec1(10, 20);
 vec::vector2i vec2(30);
 vec::vector2i vec3; 
